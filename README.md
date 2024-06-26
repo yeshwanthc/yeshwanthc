@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Yeshwanth, a passionate Front-End Developer. I
 I'm a detail-oriented and creative front-end developer with a knack for building user-friendly and visually appealing websites. My goal is to craft seamless user experiences through clean and efficient code.
 
 - 🔭 Currently working as: Frontend Developer 
-- 🌱 Learning: Solid Js
+- 🌱 Learning: Solid Js, Rust
 - 💬 Ask me about: JavaScript, React, CSS, HTML
 - 📫 How to reach me: yeshwanthnaidu62@gmail.com
 
