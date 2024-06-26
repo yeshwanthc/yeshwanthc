@@ -1,6 +1,6 @@
-# 💻 Front-End Developer Portfolio
+# 💻 Front-End Developer 
 
-Welcome to my GitHub profile! I'm [Your Name], a passionate Front-End Developer. I specialize in creating stunning and responsive web applications using the latest technologies.
+Welcome to my GitHub profile! I'm Yeshwanth, a passionate Front-End Developer. I specialize in creating stunning and responsive web applications using the latest technologies.
 
 ---
 
@@ -8,19 +8,19 @@ Welcome to my GitHub profile! I'm [Your Name], a passionate Front-End Developer.
 
 I'm a detail-oriented and creative front-end developer with a knack for building user-friendly and visually appealing websites. My goal is to craft seamless user experiences through clean and efficient code.
 
-- 🔭 Currently working on: [Your Current Project]
-- 🌱 Learning: [New Technologies or Skills]
+- 🔭 Currently working as: Frontend Developer 
+- 🌱 Learning: Solid Js
 - 💬 Ask me about: JavaScript, React, CSS, HTML
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: yeshwanthnaidu62@gmail.com
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks/Libraries:** React, Vue.js, Bootstrap, Tailwind CSS
-- **Version Control:** Git, GitHub
-- **Tools:** VS Code, Webpack, npm, Figma
+- **Frameworks/Libraries:** React, Next.js, Bootstrap, Tailwind CSS, SCSS
+- **Version Control:** Git, GitHub, Bit Bucket
+- **Tools:** VS Code, Vite, npm, Figma
 
 ---
 
@@ -30,25 +30,10 @@ I'm a detail-oriented and creative front-end developer with a knack for building
 
 ---
 
-## 🔧 Projects
-
-### [Project 1: Project Name](Link to Project)
-![Project 1 Screenshot](Link to Screenshot or GIF)
-
-Description of the project, technologies used, and any other relevant information.
-
-### [Project 2: Project Name](Link to Project)
-![Project 2 Screenshot](Link to Screenshot or GIF)
-
-Description of the project, technologies used, and any other relevant information.
-
----
-
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yeshwanth-c-76b86123a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://yesh18.netlify.app)
 
 ---
 
@@ -56,7 +41,6 @@ Description of the project, technologies used, and any other relevant informatio
 
 - 🎮 Gaming
 - 📚 Reading tech blogs
-- 🎨 Designing UI/UX
 - 🎵 Listening to music
 
 ---
