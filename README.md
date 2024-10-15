@@ -26,7 +26,7 @@ I'm a detail-oriented and creative front-end developer with a knack for building
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yeshwanth-c-76b86123a/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://yesh18.netlify.app)
 
 ---
