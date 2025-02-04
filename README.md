@@ -15,7 +15,6 @@ I'm a detail-oriented and creative front-end developer with a knack for building
 
 ---
 
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yeshwanthc&theme=dark&background=000000)](https://git.io/streak-stats)  -->
 
 ## 🛠️ Technologies & Tools
 
