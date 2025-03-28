@@ -1,6 +1,6 @@
 # 💻 Front-End Developer 
 
-Welcome to my GitHub profile! I'm Yeshwanth, a passionate Front-End Developer. I specialize in creating stunning and responsive web applications using the latest technologies.
+I'm Yeshwanth, building an advanced email signature generator and specializing in creating stunning and responsive web applications using the latest technologies.
 
 ---
 
@@ -28,7 +28,7 @@ I'm a detail-oriented and creative front-end developer with a knack for building
 ## 🌐 Connect with Me
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://yesh18.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen)](https://yeshwanthc.in)
 
 ---
 
